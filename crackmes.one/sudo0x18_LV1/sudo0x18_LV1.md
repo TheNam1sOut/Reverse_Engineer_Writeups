@@ -28,7 +28,7 @@
     </img>
 </div>
 
-- Confirm the password by running the executable (in my case, i run the file through WSL)
+- Confirm the password by running the executable (in my case, I ran the file through WSL)
 
 <div style="margin: auto; display: flex; justify-content: center; align-items: center">
     <img 
