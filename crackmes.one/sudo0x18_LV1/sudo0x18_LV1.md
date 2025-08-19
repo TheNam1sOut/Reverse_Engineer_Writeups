@@ -9,25 +9,31 @@
 # Solve
 - Opening the file using IDA Pro and checking the main function, we see that the program asks for a password, which is then checked through the checkPass function.
 
-<img 
-    style="text-align: center"
-    src="./Pictures/main.png"
-    alt="main function">
-</img>
+<div style="margin: auto; display: flex; justify-content: center; align-items: center">
+    <img 
+        style="text-align: center"
+        src="./Pictures/main.png"
+        alt="main function">
+    </img>
+</div>
 
 - Looking at the checkPass function, the function simply checks for each character of our input to see if it matches its hardcoded password.
 - The next step is clear, we look up our ASCII table and find that the password is sudo0x18
 
-<img 
-    style="text-align: center"
-    src="./Pictures/checkPass.png"
-    alt="checkPass function">
-</img>
+<div style="margin: auto; display: flex; justify-content: center; align-items: center">
+    <img 
+        style="text-align: center"
+        src="./Pictures/checkPass.png"
+        alt="checkPass function">
+    </img>
+</div>
 
 - Confirm the password by running the executable (in my case, i run the file through WSL)
 
-<img 
-    style="text-align: center"
-    src="./Pictures/confirm.png"
-    alt="confirm answer">
-</img>
+<div style="margin: auto; display: flex; justify-content: center; align-items: center">
+    <img 
+        style="text-align: center"
+        src="./Pictures/confirm.png"
+        alt="Confirm answer">
+    </img>
+</div>
