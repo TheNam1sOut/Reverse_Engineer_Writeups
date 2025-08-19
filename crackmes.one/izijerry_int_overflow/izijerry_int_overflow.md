@@ -1,6 +1,6 @@
 # General Information
 - Name: izijerry's int overflow
-- Difficulty: 1,6
+- Difficulty: 1.6
 - Quality: 4.1
 - Language: C/C++
 - Platform: Unix/Linux etc.
