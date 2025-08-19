@@ -8,6 +8,9 @@
 - Source: https://crackmes.one/crackme/646627a933c5d439389131d9
 # Solve
 - Opening the file using IDA Pro and checking the main function, we see that the program asks for a password, which is then checked through the checkPass function.
+
+![main function](https://github.com/TheNam1sOut/Reverse_Engineer_Writeups/blob/main/crackmes.one/sudo0x18_LV1/Pictures/main.png "main")
+
 - Looking at the checkPass function, the function simply checks for each character of our input to see if it matches its hardcoded password.
 - The next step is clear, we look up our ASCII table and find that the password is sudo0x18
 - Confirm the password by running the executable (in my case, i run the file through WSL) 
