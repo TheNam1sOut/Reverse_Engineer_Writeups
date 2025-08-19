@@ -11,7 +11,7 @@
 
 <div style="margin: auto; display: flex; justify-content: center; align-items: center">
     <img 
-        style="text-align: center"
+        style="text-align: center; display: block; margin-left: auto; margin-right: auto"
         src="./Pictures/main.png"
         alt="main function">
     </img>
@@ -22,7 +22,7 @@
 
 <div style="margin: auto; display: flex; justify-content: center; align-items: center">
     <img 
-        style="text-align: center"
+        style="text-align: center; display: block; margin-left: auto; margin-right: auto"
         src="./Pictures/checkPass.png"
         alt="checkPass function">
     </img>
@@ -32,7 +32,7 @@
 
 <div style="margin: auto; display: flex; justify-content: center; align-items: center">
     <img 
-        style="text-align: center"
+        style="text-align: center; display: block; margin-left: auto; margin-right: auto"
         src="./Pictures/confirm.png"
         alt="Confirm answer">
     </img>
