@@ -1,4 +1,5 @@
 # General Information
+- Solved date: 08/19/2025
 - Name: izijerry's int overflow
 - Difficulty: 1.6
 - Quality: 4.1

@@ -1,4 +1,5 @@
 # General Information
+- Solved date: 08/19/2025
 - Name: toasterbirb's flags
 - Difficulty: 1.5
 - Quality: 4.0

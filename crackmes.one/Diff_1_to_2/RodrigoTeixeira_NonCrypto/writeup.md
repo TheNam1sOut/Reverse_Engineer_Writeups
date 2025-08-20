@@ -1,4 +1,5 @@
 # General Information
+- Solved date: 08/19/2025
 - Name: RodrigoTeixeira's Non-cryptographically secure hash (my first crackme!)
 - Difficulty: 2.0
 - Quality: 4.0

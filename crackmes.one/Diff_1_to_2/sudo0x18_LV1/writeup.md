@@ -1,4 +1,5 @@
 # General Information
+- Solved date: 08/19/2025
 - Name: sudo0x18's Level1
 - Difficulty: 1.1
 - Quality: 4.1

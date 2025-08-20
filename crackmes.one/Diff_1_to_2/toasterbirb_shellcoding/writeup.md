@@ -1,4 +1,5 @@
 # General Information
+- Solved date: 08/20/2025
 - Name: toasterbirb's shellcoding
 - Difficulty: 2.0
 - Quality: 4.0

@@ -1,4 +1,5 @@
 # General Information
+- Solved date: 08/20/2025
 - Name: S3c_Cult's XORcist
 - Difficulty: 1.7
 - Quality: 5.0
